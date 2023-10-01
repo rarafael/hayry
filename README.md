@@ -1,6 +1,6 @@
 # hayry 
 
-[!image](https://github.com/rarafael/hayry/blob/8cd66b2f0675ebc374c29e8443c4aeb6537e765e/banner.png)
+![image](https://github.com/rarafael/hayry/blob/8cd66b2f0675ebc374c29e8443c4aeb6537e765e/banner.png)
 
 ### about
 
